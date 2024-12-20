@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Scroll Test
-description: I'm in love with my girlfriend.
+title: Snake game
+description: snake that eats people
 toc: true
 ---
 
