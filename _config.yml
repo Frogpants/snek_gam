@@ -1,9 +1,9 @@
 title: Coding Journey 
 description: "Class of 2025"
-owner_name: John Mortensen
-github_username: jm1021 
-github_repo: "john_2025" 
-baseurl: "/john_2025"
+owner_name: Spencer Lyons
+github_username: Frogpants
+github_repo: "snek_gam" 
+baseurl: "/snek_gam"
 future: true
 remote_theme: jekyll/minima
 minima:
