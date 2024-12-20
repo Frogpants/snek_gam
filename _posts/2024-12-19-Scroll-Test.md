@@ -74,7 +74,7 @@ toc: true
         // bushes
         function drawBush(x, y) {
             const img = new Image();
-            img.src = "/images/snek art/bush.png";
+            img.src = "/snek/snek_gam/images/snek_art/bush.png";
             img.onload = function() {
                 ctx.drawImage(img,x,y)
             };
@@ -113,7 +113,7 @@ toc: true
             ctx.font = "20px Arial";
             ctx.fillStyle = "black";
             ctx.textAlign = "center";
-            ctx.fillText("Score: " + score, 10, 30);
+            ctx.fillText("Score: " + score, canvas.width/2, 30);
         };
         // Update the game state
         function update() {
